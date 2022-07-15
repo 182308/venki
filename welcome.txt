@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 sony
+=======
+amar
+>>>>>>> bf130da... amar chnages
